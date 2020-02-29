@@ -1,0 +1,8 @@
+Swati Dontamsetti
+Academy of Py
+Observable Trends:
+1.	As a district, our percentage of students passing overall (both math and reading) is high, at 80.39%.
+2.	Rodriguez High School, has the lowest percentage of students passing overall at 73.293%.
+3.	Our top 5 best performing schools are all Charter Schools, and our 5 worst performing schools are all District Schools.
+4.	Spending more money per student doesn’t seem to improve the percentage of students passing overall.
+5.	But school size does affect the percentage of students passing overall. Our largest schools are doing 20 percentage points worse than our small and medium schools.
