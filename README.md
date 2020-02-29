@@ -79,7 +79,7 @@ Your final report should include each of the following:
 
 * Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
 
-As final considerations:
+## As final considerations:
 
 * Use the pandas library and Jupyter Notebook.
 * You must include a written description of at least two observable trends based on the data.
